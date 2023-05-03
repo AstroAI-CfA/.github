@@ -1,4 +1,4 @@
-![AstroAI logo](../img/astroai.png)
+![AstroAI logo](img/astroai.png)
 
 AstroAI strives to bring experts in artificial intelligence together with experts in astronomy to help solve some of the most interesting and difficult to solve problems in astronomy.
 
